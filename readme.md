@@ -1,6 +1,6 @@
 # Harmful Plant Detector
 
- Add short description of project here > 
+This AI algorithm detects the common harmful plants poison ivy, poison oak, and poison sumac, and displays which species, if any, is detected.
 
 ![add image descrition here](direct image link here)
 
