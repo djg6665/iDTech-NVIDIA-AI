@@ -15,7 +15,7 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 1. Upload an image that you would like this algorithm to process and note the name of the image file.
 2. Locate the following line of code:
    image = Image.open(opt.filename)
-3. Replace opt.filename with the name of the image file.
+3. Replace opt.filename with the name of the image file and put single quotations around the image name, for example: image = Image.open('poison-ivy.jpg').    Please upload a .jpg or .jpeg file to ensure the program works.
 4. Run main.py
 5. Read the final output.
 
