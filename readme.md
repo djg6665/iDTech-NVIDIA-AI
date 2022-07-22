@@ -2,7 +2,7 @@
 
 This AI algorithm detects the common harmful plants poison ivy, poison oak, and poison sumac, and displays which species, if any, is detected.
 
-![add image descrition here](direct image link here)
+I have included two sample images of poison ivy and maple leaves, which look somewhat similar to an artificial intelligence. The file names are poison-ivy.jpeg and maple-leaf.jpg.
 
 ## The Algorithm
 
