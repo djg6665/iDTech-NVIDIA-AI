@@ -1,4 +1,4 @@
-# Project Name
+# Harmful Plant Detector
 
  Add short description of project here > 
 
