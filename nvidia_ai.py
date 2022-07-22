@@ -13,9 +13,9 @@ import numpy as np
 import argparse
 
 #Get input from the user
-#parser = argparse.ArgumentParser()
-#parser.add_argument("filename", type=str, help="filename of the image to process")
-#opt = parser.parse_args()
+parser = argparse.ArgumentParser()
+parser.add_argument("filename", type=str, help="filename of the image to process")
+opt = parser.parse_args()
 
 # Load the model
 model = load_model('keras_model.h5')
