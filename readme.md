@@ -16,4 +16,4 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 2. When prompted upload an image.
 3. Read the results.
 
-[View a video explanation here](video link)
+[View a video explanation here] https://youtu.be/5NOeMzU5t8o
