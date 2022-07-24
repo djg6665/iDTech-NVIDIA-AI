@@ -8,7 +8,6 @@ I have included two sample images of poison ivy and maple leaves, which look som
 
 The algorithm works by a person uploading an image. The algorithm then takes that image and attempts to match it with various pictures of poison ivy, poison oak, and poison sumac. 
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
 ## Running this project
 
